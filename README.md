@@ -5,9 +5,13 @@ Intall selenium :   pip install selenium
 
 * PLEASE PLACE YOUR OPERATING SYSTEM CHROMEDRIVER FOLDER AND SCRIPT IN THE SAME DIRECTORY
 
-Your system is windows, please choose chromedriver_win32
-		Mac, please choose chromedriver_mac64
-		Ubuntu/Linux, please choose chromedriver_linux64
+Your system is 
+		
+		Windows: chromedriver_win32
+		
+		Mac: chromedriver_mac64
+
+		Ubuntu/Linux: chromedriver_linux64
 
 ## How to run?
 
